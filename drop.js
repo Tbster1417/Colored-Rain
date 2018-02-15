@@ -19,7 +19,7 @@ else if(col === 'orange'){
  colo = '#FF7500'
 }
 else{
- colo = '#000000'
+ colo = '#FFFFFF'
 }
 
 function Drop() {
